@@ -10,6 +10,10 @@
     font-style: normal;
 }
 
+@media screen and (-webkit-min-device-pixel-ratio:0) {@font-face {font-family: 'League Spartan';
+src: url('_webfonts/leaguespartan-bold.svg#league_spartanbold') format('svg');
+}}
+
 html, body, .container {
     height: 100%;
 }
