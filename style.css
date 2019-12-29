@@ -5,15 +5,21 @@
          url('leaguespartan-bold-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
-
 }
 
 html, body, .container {
     height: 100%;
+    background-color:#232323;
 }
+
+h2{
+  color:#D7D7D7;
+}
+
 .container {
     font-family: 'league_spartanbold';
     display: flex;
     align-items: center;
     justify-content: center;
+    font-size: xx-large;
 }
