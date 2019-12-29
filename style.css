@@ -15,7 +15,10 @@ html, body, .container {
 h2{
   color:#D7D7D7;
 }
-
+a {
+  color:inherit;
+  text-decoration: none;
+ }
 .container {
     font-family: 'league_spartanbold';
     display: flex;
