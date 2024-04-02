@@ -1,0 +1,9 @@
+/* style.css */
+body {
+    background: linear-gradient(to bottom right, rgba(255, 228, 118, 1), rgba(0, 100, 147, 1));
+    min-height: 100vh;
+    color: black;
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+  }
+  
